@@ -31,6 +31,7 @@ npm install
 ```
 npm run start
 ```
+7. Or click here... https://elated-swirles-ee596c.netlify.app/
 
 ### Known Bugs
 
